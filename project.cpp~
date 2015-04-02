@@ -8,8 +8,6 @@ int main (){
 	int y=6;
 	int z=add(x,y);
 	cout<<endl<<z<<endl;
-	int a=sub(x,y);
-	cout<<endl<<a<<endl;
 
 return 0;
 }
